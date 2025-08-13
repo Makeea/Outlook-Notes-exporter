@@ -1,6 +1,5 @@
 # Export Outlook Notes
 
-## The Problem
 Microsoft is forcing users into **New Outlook**, which:
 - Removes the Notes feature entirely
 - Breaks COM access to `IPM.StickyNote` items
@@ -29,7 +28,6 @@ This script exists so you can **export and save every note you have** while you 
 ## Requirements
 - **Windows** with Outlook (classic) installed  
 - PowerShell 5.1+ or PowerShell 7+  
-- Notes visible in the Outlook Navigation Pane  
 - 64-bit PowerShell if Outlook is 64-bit
 
 ## How to Use
